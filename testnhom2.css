@@ -1,0 +1,131 @@
+.khungto{
+	width: 100%;
+	height: 400px;
+	background: white;
+}
+.khungto .how{
+	font-family: Abadi Extra Light;
+	color: #c8175a;
+	margin-left: 40%;
+	padding-top: 2rem ;
+	float: left;
+	margin-right: 0.3rem;
+	font-size: 35px;
+	padding-bottom: 2rem;
+}
+.khungto .work{
+	font-family: Franklin Gothic Heavy;
+	color: #2e2989;
+	padding-top: 2rem ;
+	font-size: 35px;
+	padding-bottom: 2rem;
+}
+.bx{
+	width: 80%;
+	height: 296px;
+	background: white;
+	margin: 0 auto;
+}
+.bx1{
+	float: left;
+	width: 25%;
+	height: 300px;
+	/* background: red; */
+}
+.bx01{
+	width: 200px;
+	height: 200px;
+	/* background: yellow; */
+	margin: 0 auto;
+}
+.bx01 img{
+	width: 100%;
+	height: 100%;
+}
+.bx02{
+	width: 100%;
+	height: 100px;
+	/* background: green; */
+	text-align: center;
+	font-size: 20px;
+}
+.john{
+	width: 100%;
+	height: 150px;
+	background: red;
+}
+.coll{
+	float: left;
+	margin-left: 10%;
+	color: white;
+	font-size: 30px;
+	width: 40%;
+	height: 100%;
+	/* background: blue; */
+}
+ .john .chu1{
+ 	font-family: Abadi Extra Light;
+ 	padding-top: 2.2rem;
+	float: left;
+}
+.john .chu2{
+	font-family: Franklin Gothic Heavy;
+	padding-top: 2.2rem;
+	float: left;
+	margin-left: 0.3rem;
+	margin-right: 0.3rem;
+}
+.john .chu3{
+	font-family: Abadi Extra Light;
+	padding-top: 2.2rem;
+	float: left;
+}
+.john .chu4{
+	clear: left;
+	font-size: 15px;
+}
+.john .email{
+	float: left;
+	width: 40%;
+	height: 100%;
+	/* background: yellow; */
+}
+.email .email1{
+	float: left;
+	width: 64%;
+	height: 100%;
+	/* background: black; */
+}
+.email .sub{
+	float: right;
+	width: 30%;
+	height: 100%;
+	/* background: pink; */
+}
+.john .ten{
+	padding-left: 2rem;
+	border-radius: 30px 0px 0px 30px;
+	margin-top: 45px;
+	width: 100%;
+	height: 54px;
+
+	background: white;
+}
+.john .nut{
+	border-radius: 0px 30px 30px 0px;
+	margin-top: 45px;
+	width: 100%;
+	height: 60px;
+	color: white;
+	background: black;
+}
+.john .nut:hover{
+	color: black;
+	background: white;
+}
+
+
+
+
+
+
